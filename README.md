@@ -1,6 +1,6 @@
 # flaskapi_task
 # BookStore Flask API
-This is a simple RESTful API built with Flask to scrape book data from a website and manage it using a SQLite database. It demonstrates web scraping, database integration, and REST API development in Python.
+This is a simple RESTful API built with Flask to scrape book data from a website and manage it using a SQLite database. It demonstrates web scraping, database integration, and REST API development.
 
 ---
 
